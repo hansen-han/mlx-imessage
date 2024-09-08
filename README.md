@@ -11,14 +11,9 @@ pip install -r requirements.txt
 
 Run ```imessage_mlx.ipynb``` in your IDE. 
 
-## Notes / Challenges
-- When I experimented with this, it was very effective at capturing my tone and how I texted, but suffered from being a bit too rando
-   - 
-
+#
 ## Future Work / Ideas
-- Incorperating RAG with your message history, attachments, calendar, notes, etc. to create a personal "secretary" and better messages per-person
-- Experimenting with adding relationship data while fine-tuning (ie. this is your friend, this is your boss/colleague, this is your husband/wife, this is your mother/father, etc.)
-
+- Incorperating RAG with your message history, attachments, calendar, notes, etc. to create a personal assistant and better messages per-person
 
 ## References / Inspiration
 - https://github.com/ShawhinT/YouTube-Blog/tree/main/LLMs/qlora-mlx: Local Fine-tuning on Mac (QLoRA with MLX)
